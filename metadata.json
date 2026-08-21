@@ -1,0 +1,6 @@
+{
+  "name": "CVC Sentence Builder",
+  "description": "Interactive English sentence construction game for 7-year-old beginners with slow female voice narration and CVC phonics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
